@@ -6,4 +6,4 @@ I'm learning how to use GitHub. :)
 1. Please try to reset commit.
 2. The second commit point.
 3. The third.
-4. 
+4. The forth.
